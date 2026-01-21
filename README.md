@@ -50,7 +50,7 @@ My interests lie in:
 * Designed relational database schema
 * Collaborated using Git in a team environment
 
-📁 Repo: *Add your GitHub repository link here*
+📁 Repo: *https://github.com/KgothatsoChauke/vehicle-rental-system*
 
 ---
 
