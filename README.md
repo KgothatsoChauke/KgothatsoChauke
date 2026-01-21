@@ -85,7 +85,7 @@ Built to evolve incrementally with real-world use cases
 
 * Built a rule-based chatbot to analyze symptoms and suggest treatments
 
-📁 Repo: *Add your GitHub repository link here*
+📁 Repo: *https://github.com/KgothatsoChauke/HealthCare-Chatbot*
 
 ---
 
