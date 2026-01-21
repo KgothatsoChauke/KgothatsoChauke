@@ -42,7 +42,7 @@ My interests lie in:
 
 ---
 
-###🔹 SelfCEO – Personal Life Management System
+### 🔹 SelfCEO – Personal Life Management System
 
 **Tech:** Java (Spring Boot), MySQL, REST APIs (planned), GitHub
 
