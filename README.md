@@ -54,7 +54,7 @@ My interests lie in:
 
 Built to evolve incrementally with real-world use cases
 
-📁 Repo: Add your GitHub repository link here
+📁 Repo: *https://github.com/KgothatsoChauke/SelfCEO*
 
 ### 🔹 DriveNow – Vehicle Rental System (Team Project)
 
