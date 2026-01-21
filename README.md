@@ -42,6 +42,20 @@ My interests lie in:
 
 ---
 
+###🔹 SelfCEO – Personal Life Management System
+
+**Tech:** Java (Spring Boot), MySQL, REST APIs (planned), GitHub
+
+* Designing a system that treats personal life management like a business
+
+* Models domains such as goals, finances, habits, and decision tracking
+
+* Focused on backend architecture, clean domain modeling, and scalability
+
+Built to evolve incrementally with real-world use cases
+
+📁 Repo: Add your GitHub repository link here
+
 ### 🔹 DriveNow – Vehicle Rental System (Team Project)
 
 **Tech:** Java (Spring Boot), MySQL, JavaScript
