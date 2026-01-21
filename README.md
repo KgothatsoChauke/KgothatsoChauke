@@ -38,7 +38,7 @@ My interests lie in:
 * Configured IPv4 & IPv6 addressing, DHCP, DNS, and HTTP services
 * Documented configurations, IP plans, and testing results
 
-📁 Repo: *Add your GitHub repository link here*
+📁 Repo: *https://github.com/KgothatsoChauke/Computer-Networks-Project*
 
 ---
 
