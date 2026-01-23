@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Kgothatso Chauke
 
-🎓 **Computer Science & Electronics Graduate** | 💻 Aspiring Software & Data Engineer | 🌐 Networking & Backend Enthusiast
+🎓 **Computer Science & Electronics Graduate** | 💻 Aspiring Software & Data Engineer | Backend Enthusiast
 
 ---
 
