@@ -52,18 +52,22 @@ My interests lie in:
 
 * Focused on backend architecture, clean domain modeling, and scalability
 
-Built to evolve incrementally with real-world use cases
+* Built to evolve incrementally with real-world use cases
 
 📁 Repo: *https://github.com/KgothatsoChauke/SelfCEO*
 
+---
 ### 🔹 DriveNow – Vehicle Rental System (Team Project)
 
 **Tech:** Java (Spring Boot), MySQL, JavaScript
 
-* Developed RESTful backend APIs for bookings and payments
-* Designed relational database schema
-* Collaborated using Git in a team environment
+A full-stack vehicle rental system designed to manage user bookings, vehicle availability, and secure payment processing.
 
+* Developed RESTful APIs using Spring Boot to handle bookings, user management, and payment workflows
+* Designed and implemented a normalized MySQL database schema to efficiently manage vehicles, customers, and transactions
+* Built backend logic for booking validation (e.g., availability checks, date conflicts) to ensure data integrity
+* Implemented layered architecture (Controller → Service → Repository) to improve maintainability and scalability
+  
 📁 Repo: *https://github.com/KgothatsoChauke/vehicle-rental-system*
 
 ---
@@ -72,8 +76,14 @@ Built to evolve incrementally with real-world use cases
 
 **Tech:** Java (Spring Boot), PostgreSQL, SvelteKit
 
-* Implemented secure voter authentication services
-* Integrated backend with frontend and database
+A secure web-based voting platform designed to enable authenticated users to cast votes while maintaining data integrity and preventing duplicate submissions.
+
+* Implemented secure voter authentication using Spring Boot, ensuring only registered users could access the voting system
+* Designed backend APIs to handle vote casting, user verification, and election management
+* Enforced business rules such as one-user-one-vote to maintain election integrity
+* Integrated backend services with a SvelteKit frontend and PostgreSQL database for seamless data flow
+* Contributed to database design, including tables for voters, candidates, and votes
+* Participated in requirements analysis and system design through SRS documentation
 
 📁 Repo: *Add your GitHub repository link here*
 
