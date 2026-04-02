@@ -42,6 +42,23 @@ My interests lie in:
 
 ---
 
+### 🔹 Book Management CRUD Application
+
+**Tools:** Java (Spring Boot)
+
+A backend application designed to manage a collection of books through standard CRUD operations, demonstrating core data handling and API design principles.
+
+* Developed RESTful endpoints to create, read, update, and delete book records
+* Implemented file-based data persistence to store and retrieve book information
+* Structured the application using layered architecture (Controller → Service → Repository)
+* Handled input validation and error responses to ensure reliable API behavior
+* Designed clean and reusable code to support future migration to a database system
+
+
+📁 Repo: *https://github.com/KgothatsoChauke/bookCRUD*
+
+---
+
 ### 🔹 SelfCEO – Personal Finances Management System
 
 **Tech:** Java (Spring Boot), MySQL, REST APIs (planned), GitHub
