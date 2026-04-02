@@ -93,7 +93,13 @@ A secure web-based voting platform designed to enable authenticated users to cas
 
 **Tech:** Python
 
-* Built a rule-based chatbot to analyze symptoms and suggest treatments
+A hybrid **rule-based + AI-powered healthcare chatbot** backend built with **Python**, **FastAPI**, **spaCy**, and **HuggingFace Transformers**.
+
+The chatbot can:  
+- Extract symptoms from user input  
+- Match them against a structured knowledge base (JSON)  
+- Suggest general treatments  
+- Provide natural language responses via AI fallback when symptoms are unknown  
 
 📁 Repo: *https://github.com/KgothatsoChauke/HealthCare-Chatbot*
 
